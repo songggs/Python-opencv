@@ -1,4 +1,6 @@
-#Opencv打开摄像头，显示视频
+'''
+Opencv打开摄像头，显示视频
+'''
 
 import cv2
 import numpy
